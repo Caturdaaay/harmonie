@@ -1,0 +1,1 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[9],{363:function(t,s,e){"use strict";e.r(s);var n={name:"audio-file",props:["src"]},r=e(44),c=Object(r.a)(n,(function(){var t=this.$createElement;return(this._self._c||t)("audio",{staticStyle:{width:"100%"},attrs:{controls:"",src:this.src}})}),[],!1,null,null,null);s.default=c.exports}}]);

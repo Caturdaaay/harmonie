@@ -2,8 +2,8 @@
   "name": "harmonie",
   "main": "index.js",
   "scripts": {
-    "dev": "vuepress dev docs",
-    "build": "vuepress build docs -d dist"
+    "dev": "vuepress dev src",
+    "build": "vuepress build src -d docs"
   },
   "devDependencies": {
     "vuepress": "^1.8.2"
