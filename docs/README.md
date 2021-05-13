@@ -1,0 +1,3 @@
+# Bienvenue !
+
+![sales](./sales.png)
