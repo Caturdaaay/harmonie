@@ -3,8 +3,8 @@ module.exports = {
     base: "/harmonie/",
     themeConfig: {
         sidebar: [
-            "/introduction.md",
-            "/gammes.md"
+            "/00_introduction/introduction.md",
+            "/01_gammes/gammes.md"
         ]
     }
 }

@@ -1,3 +1,1 @@
 # Bienvenue !
-
-![sales](./sales.png)
